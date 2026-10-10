@@ -1,0 +1,10 @@
+Day 2 - Git and workspace 
+
+1. vs code is an editor for code and configuration files.
+2. Git tracks changes to files over time.
+3. A repository is a project tracked by Git.
+4. A commit  is a saved snapshot of tracked project changes.
+5. WSL lets me use a linux environment on windows.
+
+Today's proof:
+vs code opened, folders created, git version checked.
