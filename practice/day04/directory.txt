@@ -1,0 +1,6 @@
+total 0
+drwxrwxrwx 1 sebin sebin 512 Oct 12 18:22 .
+drwxrwxrwx 1 sebin sebin 512 Oct 12 17:18 ..
+-rwxrwxrwx 1 sebin sebin   0 Oct 12 18:22 directory.txt
+-rwxrwxrwx 1 sebin sebin  23 Oct 12 18:21 output.txt
+-rwxrwxrwx 1 sebin sebin  35 Oct 12 17:19 sample.txt
