@@ -13,3 +13,9 @@
 - `git log --oneline` — displays commit history.
 - `git diff` — displays unstaged changes.
 - `git diff --staged` — displays staged changes.
+
+## Working tree, staging area, and repository
+
+- Working tree: where I edit files.
+- Staging area: where I select changes for the next commit.
+- Repository: where Git stores committed snapshots and history.
