@@ -1,0 +1,10 @@
+2026-10-29 09:00:01 INFO Application started
+2026-10-29 09:00:05 INFO Server listening on port 3000
+2026-10-29 09:01:12 ERROR Database connection failed
+2026-10-29 09:01:15 WARN Retrying database connection
+2026-10-29 09:01:20 INFO Database connection restored
+2026-10-29 09:02:03 ERROR Request timed out
+2026-10-29 09:02:10 INFO Health check passed
+2026-10-29 09:03:44 ERROR Failed to read configuration
+2026-10-29 09:04:00 INFO Application still running
+2026-10-29 09:05:00 INFO Health check passed
